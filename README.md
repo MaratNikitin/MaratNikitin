@@ -15,4 +15,4 @@ I'm Marat Nikitin from Calgary, AB, Canada, a full-stack Software Developer. I a
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ## My LinkedIn Profile:
-<code><a href="https://www.linkedin.com/in/marat-nikitin/"><img height="40" src="https://img.icons8.com/color/2x/linkedin-circled.png"></a></code>
+<code><a href="https://www.linkedin.com/in/marat-nikitin/"><img height="50" src="https://img.icons8.com/color/2x/linkedin-circled.png"></a></code>
