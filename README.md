@@ -1,5 +1,5 @@
 ## Hi there, I'm Marat 👋
-I'm Marat Nikitin from Calgary, AB, Canada, a full-stack Software Developer. I am currently passionate about C# / .NET and T-SQL programming. 
+I'm Marat Nikitin from Calgary, AB, Canada, a full-stack Software Developer. I am currently passionate about C# / .NET, T-SQL programming and Azure. 
 
 ## Languages & Tools:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
