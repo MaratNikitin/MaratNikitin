@@ -14,6 +14,7 @@ I'm Marat Nikitin from Calgary, AB, Canada, a full-stack Software Developer. I a
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://en.wikipedia.org/wiki/File:Blazor.png"></code>
 
 ## My LinkedIn Profile:
 <code><a href="https://www.linkedin.com/in/marat-nikitin/"><img height="45" src="https://img.icons8.com/color/2x/linkedin-circled.png"></a></code>
